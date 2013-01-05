@@ -1,4 +1,4 @@
-perl-came-in-unexpectedly
+넝쿨째 굴러온 Perl
 =========================
 
-넝쿨째 굴러온 Perl
+펄을 쉽게 배웁시다.
